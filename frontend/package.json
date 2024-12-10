@@ -1,0 +1,34 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@kyvg/vue3-notification": "^3.2.1",
+    "@surely-vue/table": "^4.3.5",
+    "apexcharts": "^4.1.0",
+    "axios": "^1.7.4",
+    "v-money3": "^3.24.1",
+    "vue": "^3.2.13",
+    "vue-datasource": "^2.0.7",
+    "vue-good-table": "^2.21.11",
+    "vue-router": "^4.3.2",
+    "vue-scrollto": "^2.20.0",
+    "vue3-apexcharts": "^1.8.0",
+    "vue3-easy-data-table": "^1.5.47",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
